@@ -27,8 +27,8 @@ Estamos aquí para servirle. Espere un alto grado de calidad en el servicio que 
 Nuestros precios son altamente competitivos. Trabajaremos con usted para satisfacer sus requisitos de costos.
 
 ### Índice del sitio
-* [OQT Trading Technology website](https://www.oqtradetech.com)
-* [OQT Trading Technology Apps Portfolio](https://oq-trade-tech.github.io)
+* [OQT Trading Technology sitio web](https://www.oqtradetech.com)
+* [OQT Trading Technology Cartera de Aplicaciones](https://oq-trade-tech.github.io)
 
 ### Equipo de liderazgo
 
