@@ -3,7 +3,7 @@
 ## OQ Trading Technology
 Localizados en Brooklyn, Nueva York, OQ Trading Technology es un grupo de profesionales que se especializa en conectar traders con la tecnología y plataformas de trading apropiadas. Utilizamos nuestros años de experiencia en la creación de sistemas de trading complejos para ofrecer soluciones únicas y software personalizado con el mas alto nivel de satisfacción hacia nuestros clientes.
 
-Contact us at [info@oqtradetech.com](mailto:info@oqtradetech.com) for all inquiries.
+Éntrenos en contacto con en  [info@oqtradetech.com](mailto:info@oqtradetech.com) para todas las preguntas.
 
 ### ¿Qué nos diferencia?
 Nuestro equipo se especializa en crear o personalizar software para resolver sus necesidades únicas de trading.
